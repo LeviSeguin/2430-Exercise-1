@@ -10,3 +10,4 @@ when the item is in the shopping cart.
 When the cart icon is pressed in the appbar, a new route is pushed showing a new list of saved
 shoes. The total is displayed at the top.
 
+https://github.com/LeviSeguin/2430-Exercise-1
